@@ -3,4 +3,5 @@
 int main()
 {
     printf("World!\n");
+    printf("World!\n");
 }
